@@ -5,7 +5,12 @@
 [![https://marketplace.visualstudio.com/items?itemName=ryanmcalister.Unotes](https://vsmarketplacebadge.apphb.com/version/ryanmcalister.unotes.svg)](https://marketplace.visualstudio.com/items?itemName=ryanmcalister.Unotes)
 [![](https://vsmarketplacebadge.apphb.com/installs-short/ryanmcalister.unotes.svg)](https://marketplace.visualstudio.com/items?itemName=ryanmcalister.Unotes)
 
-# ᑌᑎotes Markdown WYSIWYG
+# ᑌᑎotes Remark - Markdown WYSIWYG 
+### Fork with the latest Remark support
+
+A fork of the original UNotes extension with the latest version of remark library and properly configured to resolve issues related to YAML Front Matter.
+
+Not to be used alongside the original.
 
 > Unotes gives you a `markdown` note editor right inside Visual Studio Code. Don't get distracted with noisy markdown syntax. **Enjoy your notes** with a rich **WYSIWYG** editor. Take full control of the markdown when needed. Start taking notes in **_style_**!
 
